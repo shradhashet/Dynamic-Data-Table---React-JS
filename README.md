@@ -1,10 +1,10 @@
 # Dynamic Data Grid
 
 Dynamic Data Grid is a fully customizable table where users are 
- +Allowed to define the number of columns and columns labels. 
- +Has no restrictions  on the number of columns. 
- +Can add rows on demand even after the table is generated.
- +This can be further enhanced to a data grid by adding additional features.
+ + Allowed to define the number of columns and columns labels. 
+ + Has no restrictions  on the number of columns. 
+ + Can add rows on demand even after the table is generated.
+ + This can be further enhanced to a data grid by adding additional features.
 
 
 ## Features
