@@ -1,6 +1,6 @@
-# Dyanmic table Component
+# Dynamic Data Grid
 
-Dynamic table component is a fully customizable table where users are 
+Dynamic Data Grid is a fully customizable table where users are 
  -Allowed to define the number of columns and columns labels. 
  -Has no restricstion on the number of columns. 
  -Can add rows on demand even after the table is generated.
